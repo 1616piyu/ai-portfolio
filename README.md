@@ -1,3 +1,5 @@
+<img width="1920" height="1020" alt="chatbot-preview" src="https://github.com/user-attachments/assets/4795197a-7bdd-4cb7-84f6-b3d6e6dcbf32" />
+<img width="1920" height="1020" alt="home-preview" src="https://github.com/user-attachments/assets/747a6250-c160-4a2d-8a43-02bec568baa6" />
 # 🤖 AI Portfolio Website
 
 An AI-powered personal portfolio website built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **Groq LLM** that allows recruiters and visitors to interact with an intelligent chatbot to learn about my projects, skills, internship, certifications, and career journey.
